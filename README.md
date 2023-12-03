@@ -8,7 +8,7 @@
 
 </div>
   <br>
-<h2 align="left"><picture><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px></picture>About me </h2>
+<h2 align="left"><img src = "https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width = 50px height = 40px>About me </h2>
 <div align="left">
 
   📚 Currently I'm learning Mobile Development with Java
@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2 align="center">⚡Stats</h2>
+<h2 align="left">⚡Stats</h2>
 <div align="center">
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=celescis&theme=dark&show_icons=true&locale=en&layout=compact" alt="celescis" />
 <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=celescis&theme=github-dark-blue" alt="celescis" />
